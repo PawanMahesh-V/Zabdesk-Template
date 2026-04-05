@@ -1,0 +1,9 @@
+{
+  "name": "ZABDESK - SZABIST Student Portal",
+  "description": "A modern, high-converting academic platform for SZABIST University students, faculty, and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
